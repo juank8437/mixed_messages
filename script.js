@@ -1,2 +1,1 @@
-echo "New script.js file";
-
+console.log('script.js file');
