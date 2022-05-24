@@ -1,1 +1,2 @@
-New script.j file
+echo "New script.js file";
+
